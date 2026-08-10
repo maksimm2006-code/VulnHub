@@ -62,12 +62,14 @@ These reports highlight my approach to penetration testing by demonstrating:
 
 # 🚀 Machines
 
-| Machine           | Platform | Status             |
-| ----------------- | -------- | ------------------ |
-| BasicPentesting 2 | VulnHub  | ✅                  |
-| Kioptrix Level 1  | VulnHub  | ✅ (2 Attack Paths) |
-| BasicPentesting 2 | VulnHub  | ✅                  |
-| Toppo             | VulnHub  | ✅                  |
+| Machine            | Platform | Status             |
+| ------------------ | -------- | ------------------ |
+| BasicPentesting 2  | VulnHub  | ✅                  |
+| Kioptrix Level 1   | VulnHub  | ✅ (2 Attack Paths) |
+| BasicPentesting 2  | VulnHub  | ✅                  |
+| Toppo              | VulnHub  | ✅                  |
+| Bulldog            | VulnHub  | ✅                  |
+| Kioptrix Level 1.1 | VulnHub  | ✅                  |
 
 ---
 

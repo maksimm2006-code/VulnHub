@@ -1,0 +1,8 @@
+.htpasswd               [Status: 403, Size: 290, Words: 21, Lines: 11, Duration: 40ms]
+.htaccess               [Status: 403, Size: 290, Words: 21, Lines: 11, Duration: 41ms]
+.hta                    [Status: 403, Size: 285, Words: 21, Lines: 11, Duration: 130ms]
+                        [Status: 200, Size: 667, Words: 35, Lines: 32, Duration: 128ms]
+cgi-bin/                [Status: 403, Size: 289, Words: 21, Lines: 11, Duration: 136ms]
+index.php               [Status: 200, Size: 667, Words: 35, Lines: 32, Duration: 372ms]
+manual                  [Status: 301, Size: 315, Words: 20, Lines: 10, Duration: 230ms]
+usage                   [Status: 403, Size: 286, Words: 21, Lines: 11, Duration: 96ms]
