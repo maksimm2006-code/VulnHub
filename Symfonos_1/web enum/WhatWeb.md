@@ -1,0 +1,1 @@
+http://symfonos.local/h3l105/ [200 OK] Apache[2.4.25], Country[RESERVED][ZZ], HTML5, HTTPServer[Debian Linux][Apache/2.4.25 (Debian)], IP[192.168.96.18], JQuery, MetaGenerator[WordPress 5.2.2], PoweredBy[WordPress,WordPress,], Script[text/javascript], Title[helios site &#8211; Just another WordPress site], UncommonHeaders[link], WordPress[5.2.2]

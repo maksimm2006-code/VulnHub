@@ -70,6 +70,7 @@ These reports highlight my approach to penetration testing by demonstrating:
 | Toppo              | VulnHub  | ✅                  |
 | Bulldog            | VulnHub  | ✅                  |
 | Kioptrix Level 1.1 | VulnHub  | ✅                  |
+| Symfonos 1         | VulnHub  | ✅                  |
 
 ---
 
