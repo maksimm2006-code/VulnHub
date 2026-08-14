@@ -39,91 +39,49 @@ After obtaining initial access, local enumeration was performed. A SUID-enabled 
 
 The overall attack path was:
 
-Host Discovery
-
+	Host Discovery
       │
-
-      ▼
-
-Port Enumeration
-
+	  ▼
+	Port Enumeration
       │
-
       ▼
-
-HTTP Enumeration
-
+	HTTP Enumeration
       │
-
       ▼
-
-Drupal Identification
-
+	Drupal Identification
       │
-
       ▼
-
-Version Detection
-
+	Version Detection
       │
-
       ▼
-
-Vulnerability Research
-
+	Vulnerability Research
       │
-
       ▼
-
-Drupalgeddon2
-
+	Drupalgeddon2
       │
-
       ▼
-
-Remote Code Execution
-
+	Remote Code Execution
       │
-
       ▼
-
-Meterpreter Session
-
+	Meterpreter Session
       │
-
       ▼
-
-Shell
-
+	Shell
       │
-
       ▼
-
-Local Enumeration
-
+	Local Enumeration
       │
-
       ▼
-
-SUID Enumeration
-
+	SUID Enumeration
       │
-
       ▼
-
-SUID find
-
+	SUID find
       │
-
       ▼
-
-Privilege Escalation
-
+	Privilege Escalation
       │
-
       ▼
-
-Root Access
+	Root Access
 
 ---
 
