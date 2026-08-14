@@ -71,6 +71,7 @@ These reports highlight my approach to penetration testing by demonstrating:
 | Bulldog            | VulnHub  | ✅                  |
 | Kioptrix Level 1.1 | VulnHub  | ✅                  |
 | Symfonos 1         | VulnHub  | ✅                  |
+| DC: 1              | VulnHub  | ✅                  |
 
 ---
 

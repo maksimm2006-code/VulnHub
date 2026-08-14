@@ -1,0 +1,3 @@
+whatweb http://192.168.96.25
+
+	http://192.168.96.25 [200 OK] Apache[2.2.22], Content-Language[en],                 Country[RESERVED][ZZ], Drupal, HTTPServer[Debian Linux][Apache/2.2.22               (Debian)], IP[192.168.96.25], JQuery, MetaGenerator[Drupal 7                        (http://drupal.org)], PHP[5.4.45-0+deb7u14], PasswordField[pass],                   Script[text/javascript], Title[Welcome to Drupal Site | Drupal Site],               UncommonHeaders[x-generator], X-Powered-By[PHP/5.4.45-0+deb7u14]
