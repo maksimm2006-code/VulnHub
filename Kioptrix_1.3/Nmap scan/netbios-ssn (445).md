@@ -1,0 +1,1 @@
+445/tcp open  netbios-ssn Samba smbd 3.0.28a (workgroup: WORKGROUP)
