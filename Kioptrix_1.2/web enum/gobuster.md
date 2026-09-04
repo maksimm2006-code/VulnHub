@@ -1,0 +1,8 @@
+modules              (Status: 301) [Size: 355] [--> http://192.168.96.19/modules/]
+gallery              (Status: 301) [Size: 355] [--> http://192.168.96.19/gallery/]
+data                 (Status: 403) [Size: 324]
+core                 (Status: 301) [Size: 352] [--> http://192.168.96.19/core/]
+style                (Status: 301) [Size: 353] [--> http://192.168.96.19/style/]
+cache                (Status: 301) [Size: 353] [--> http://192.168.96.19/cache/]
+phpmyadmin           (Status: 301) [Size: 358] [--> http://192.168.96.19/phpmyadmin/]
+server-status        (Status: 403) [Size: 333]

@@ -75,6 +75,7 @@ These reports highlight my approach to penetration testing by demonstrating:
 | Chronos            | VulnHub  | ✅                  |
 | Kioptrix Level 1.3 | VulnHub  | ✅                  |
 | Symfonos 2         | VulnHub  | ✅                  |
+| Kioptrix Level 1.2 | VulnHub  | ✅                  |
 
 ---
 
